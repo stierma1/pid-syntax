@@ -1,0 +1,9 @@
+lib/processes/web-server/handlers/get-message
+lib/processes/web-server/handlers/post-message
+lib/processes/web-server/server
+lib/processes/init
+
+->get-message
+n->server
+->post-message
+-<init
